@@ -1,2 +1,10 @@
-# software-engineering-lab1
-Lab1- Introduction to GitHub and Version Control
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web App</title>
+</head>
+<body>
+    <h1>Welcome to Advanced Software Engineering</h1>
+    <p>Lectured by Mr. Muhammad Rizal</p>
+</body>
+</html>
